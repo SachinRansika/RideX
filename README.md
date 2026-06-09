@@ -1,2 +1,2 @@
 # RideX
-My first mobile application
+Simple mobile application
